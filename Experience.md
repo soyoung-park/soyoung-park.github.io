@@ -1,7 +1,7 @@
 ---
 
 layout: exp
-title: Experience
+title: Professional Experience
 permalink: /Experience/
 
 ---
