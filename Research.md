@@ -1,0 +1,6 @@
+---
+
+layout: r
+permalink: /Research/
+
+---
