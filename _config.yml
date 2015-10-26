@@ -20,3 +20,11 @@ collections:
    Education:
        output: true
        permalink: /Education/:path/
+
+   Experience:
+          output: true
+          permalink: /Experience/:path/
+   
+   Research:
+          output: true
+          permalink: /Research/:path/
