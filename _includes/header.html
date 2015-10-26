@@ -8,11 +8,10 @@
         <!-- {{ site.title }} instead of blog -->
         <a class="page-link" href="{{ site.baseurl }}/">Home</a>
 
-        {% for page in site.pages %}
-          {% if page.title %}
-          <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
-          {% endif %}
-        {% endfor %}
+        <a class="page-link" href="/Education/">Education</a>
+        <a class="page-link" href="/Research/">Research</a>
+        <a class="page-link" href="/Experience/">Professional Experience</a>
+        <a class="page-link" href="/Journal-Club/">Journal Club</a>
 
       </div>
     </nav>
