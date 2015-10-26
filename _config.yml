@@ -18,13 +18,13 @@ collections:
     permalink: /Journal-Club/:path/
 
    Education:
-       output: true
-       permalink: /Education/:path/
+    output: true
+    permalink: /Education/:path/
 
    Experience:
-          output: true
-          permalink: /Experience/:path/
+    output: true
+    permalink: /Experience/:path/
    
    Research:
-          output: true
-          permalink: /Research/:path/
+    output: true
+    permalink: /Research/:path/
