@@ -15,5 +15,5 @@ highlighter: pygments
 collections:
    Journal Club:
     output: true
-    permalink: /Journal Club/:path/
+    permalink: /Journal-Club/:path/
 
