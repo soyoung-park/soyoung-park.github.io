@@ -17,3 +17,6 @@ collections:
     output: true
     permalink: /Journal-Club/:path/
 
+   Education:
+       output: true
+       permalink: /Education/:path/
